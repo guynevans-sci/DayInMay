@@ -1,5 +1,5 @@
 pandas
 matplotlib
-urllib
+urllib.request
 nltk
 math
